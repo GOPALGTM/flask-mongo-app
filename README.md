@@ -38,7 +38,7 @@ $ kubectl apply -f mongo-secret.yaml
 
 #### Deploy MongoDB StatefulSet and Service:
 
-$ kubectl apply -f k8s/mongodb-statefulset.yaml.yaml
+$ kubectl apply -f k8s/mongodb-statefulset.yaml
 
 #### Deploy the Flask Application Deployment and Service:
 
