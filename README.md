@@ -20,7 +20,7 @@ $ docker build -t dockerhub-username/flask-app:latest .
 
 #### Push the Docker Image:
 
-$ Push the Docker dockerhub-username/flask-app:latest .
+$ Docker push dockerhub-username/flask-app:latest .
 
 #### Start Minikube:
 
